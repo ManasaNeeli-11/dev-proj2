@@ -5,6 +5,13 @@ It uses the **GitHub REST API v3** and requires a **personal access token (PAT)*
 
 ---
 
+## 🌟 My Journey
+
+This is **my first DevOps project** 🎉 and I’m super **enthusiastic 💪** to build and share it!
+Starting small but learning big — this script is my step into the **DevOps world** 🛠️🚀
+
+---
+
 ## 📋 Features
 
 * ✅ Fetch collaborators from any GitHub repo
